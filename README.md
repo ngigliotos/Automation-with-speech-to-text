@@ -1,2 +1,2 @@
 # Automation-with-speech-to-text
-I use speech to text and text to speech Api's to execute common commands on a PC
+I use speech to text and text to speech Api's to execute common commands on a PC. Some limitations are that it is sometimes slow, especially when opening a program, it can only open programs that have already been given a predefined name (as it can be hard to guess the  name of every launch file), and that it searches your computer for the file luanch path when opening a program as supposed to other methods.
