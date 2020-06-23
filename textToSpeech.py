@@ -8,7 +8,7 @@ def Main():
                try:
                     #Lets user know it is ready (mainly if the inital attempt
                     #does not work the user can wait until this is printed to
-                    #try again
+                    #try again)
                     print('Ready')
                     
                     audio = voiceCommands.rec.listen(source)
